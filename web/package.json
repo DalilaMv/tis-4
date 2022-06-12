@@ -1,0 +1,42 @@
+{
+  "name": "react-complete-guide",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.4.3",
+    "@devexpress/dx-react-chart": "^1.11.1",
+    "@devexpress/dx-react-chart-material-ui": "^1.11.1",
+    "@devexpress/dx-react-core": "^1.11.1",
+    "@material-ui/core": "^1.4.3",
+    "@material-ui/icons": "^1.1.1",
+    "babel-preset-react-native": "^4.0.1",
+    "devextreme": "19.1-stable",
+    "devextreme-react": "19.1-stable",
+    "firebase": "^6.1.0",
+    "firesql": "^2.0.2",
+    "git": "^0.1.5",
+    "history": "^4.9.0",
+    "material-ui": "^0.20.2",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^3.0.1",
+    "recharts": "^1.6.2",
+    "recompose": "^0.30.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
